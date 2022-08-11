@@ -1,0 +1,29 @@
+{
+    margin:0;
+    padding: 0;
+    border:0;
+    scroll-behaviour:smooth;
+
+}
+.Nav-div{
+    backgound-color:black;
+    padding:100px;
+    justify-content:space-between;
+    justify-items:center;
+
+}
+li{
+    padding:10px;
+
+}
+a{
+    text-decoration:none;
+    color;white;
+    
+}
+.demo{
+    padding;200px;
+    background-color:black;
+    color:white;
+
+}
